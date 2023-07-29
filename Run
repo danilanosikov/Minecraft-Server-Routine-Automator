@@ -1,0 +1,1 @@
+exec java -Xmx6G -jar Core.jar nogui
