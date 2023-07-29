@@ -1,7 +1,5 @@
 logs/
-versions/
-libraries/
 **/.DS_Store
 crash-reports/
 **/*.log
-versions/
+*World*/
